@@ -1,5 +1,5 @@
 # MazeRunner-Game-JavaFX
-10 Design Patterns applied to a small game developed using Java.
+Some Design Patterns applied to a small game developed using Java.
 
 # GUI
 Developed using JavaFX
